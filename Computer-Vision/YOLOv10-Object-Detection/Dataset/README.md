@@ -1,10 +1,7 @@
 # Dataset
 
 ## Source
-The dataset was obtained from Roboflow.
-
-## Version
-Version 7
+Roboflow Dataset Version 7
 
 ## Classes
 - Apple
@@ -13,15 +10,15 @@ Version 7
 - Potato
 
 ## Dataset Split
-- Training Images: 1852
+- Train Images: 1852
 - Validation Images: 266
 - Test Images: 134
 
 ## Total Classes
 4
 
-## Purpose
-This dataset was used to train and evaluate the YOLOv10 object detection model for detecting fruits and vegetables in images.
+## Dataset Size
+Approximately 2252 images after preprocessing and augmentation.
 
-## License
-CC BY 4.0
+## Note
+The complete dataset is not included in this repository due to the large number of image and label files. Dataset information and configuration are provided through the data.yaml file.
