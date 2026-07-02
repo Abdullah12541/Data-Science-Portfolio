@@ -41,6 +41,20 @@ This project implements object detection using the YOLOv10 model. The model was 
 
 ## Results
 The project compares model performance across multiple training epochs and evaluates object detection on unseen images.
+## Best Results
 
+| Metric | Value |
+|----------|----------|
+| Best Epoch | 20 |
+| mAP50 | 0.9880 |
+| mAP50-95 | 0.9710 |
+
+## Project Structure
+
+- Dataset
+- Documentation
+- Model
+- Detection Results
+- Training Results
 ## Author
 Abdullah Mehboob
