@@ -1,4 +1,4 @@
-# Calculator Project
+# Mini Project 1: Calculator 
 
 ## Description
 A menu-driven calculator developed in Python using functions, conditional statements, loops, and exception handling.
