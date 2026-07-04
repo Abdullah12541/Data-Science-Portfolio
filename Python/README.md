@@ -1,9 +1,10 @@
-Python Learning Projects
+# Python Learning Projects
 
 This directory contains projects developed while learning Python programming fundamentals.
 
-Projects:
-1. Calculator
-2. Student Grade Calculator
-3. Unit Converter
-4. Menu Driven Program
+| Project | Concepts Practiced | Status |
+|----------|----------|----------|
+| Calculator | Functions, Parameters, Return Values | ✅ |
+| Student Grade Calculator | Functions, Conditions, Percentage Calculation | ✅ |
+| Unit Converter | Functions, Return Values, Menu Selection | ✅ |
+| Menu-Driven Program | Functions, Loops, Conditions | ✅ |
