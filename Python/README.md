@@ -1,21 +1,14 @@
 # Python Learning Projects
+## Projects Status
 
-This directory contains projects developed while learning Python programming fundamentals.
+| Project                    | Concepts Practiced                                                                                  |    Status   |
+| -------------------------- | --------------------------------------------------------------------------------------------------- | :---------: |
+| Basic Calculator           | Functions, Parameters, Return Values, Menu-Driven Programming                                       | ✅ Completed |
+| Student Grade Calculator   | Functions, Input Validation, Conditional Statements                                                 | ✅ Completed |
+| Unit Converter             | Functions, Arithmetic Operations, Menu-Driven Programming                                           | ✅ Completed |
+| Class Performance Analyzer | Functions, Lists, Loops, Input Validation, Statistics (Mean, Median, Mode), Menu-Driven Programming | ✅ Completed |
 
-| Project | Concepts Practiced | Status |
-|----------|----------|----------|
-| Calculator | Functions, Parameters, Return Values | ✅ |
-| Student Grade Calculator | Functions, Conditions, Percentage Calculation | ✅ |
-| Unit Converter | Functions, Return Values, Menu Selection | ✅ |
-| Menu-Driven Program | Functions
-Parameters and Arguments
-Return Values
-Lists
-For Loops
-While Loops
-If-Elif-Else Statements
-Exception Handling (try / except)
-Input Validation
-Menu-Driven Programming
-Built-in Functions (sum(), len())
-Statistics Module (median, mode) | ✅ |
+---
+
+**Total Mini Projects Completed:** **4**
+
